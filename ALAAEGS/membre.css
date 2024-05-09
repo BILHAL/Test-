@@ -1,0 +1,94 @@
+h1
+{
+	text-align: center;
+	font-family: algerian;
+	text-decoration: underline;
+}
+
+.liste
+{
+
+}
+
+.contact_gauche
+{
+	float: left;
+	border-style: solid;
+	width: 300px;
+	height: 450px;
+	margin-top: 20px;
+	margin-left: 24px;
+	margin-bottom: 10px;
+}
+
+.contact_milieu_1 /* droite */
+{
+	float: right;
+	border-style: solid;
+	width: 300px;
+	height: 450px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 24px;
+	margin-bottom: 10px;
+}
+
+.contact_milieu_2 /* milieu 1 */
+{
+	float: right;
+	border-style: solid;
+	width: 300px;
+	height: 450px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 24px;
+	margin-bottom: 10px;
+}
+
+.contact_droite /* milieu 2 */
+{
+	float: right;
+	border-style: solid;
+	width: 300px;
+	height: 450px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 24px;
+	margin-bottom: 10px;
+}
+
+.photo
+{
+	margin-left: 20px;
+	margin-top: 5px;
+	border-style: double;
+	width: 250px;
+	height: 206px;
+	border-radius: 60px;
+}
+
+.photo img
+{
+	display: block;
+	border-radius: 60px;
+}
+
+.info
+{
+	font-size: 20px;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+.info strong
+{
+	font-weight: bold;
+	color: black;
+	margin-bottom: -30px;
+	text-decoration: underline;
+}
+
+.detail
+{
+	margin-bottom: -35px;
+}

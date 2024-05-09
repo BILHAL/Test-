@@ -1,0 +1,21 @@
+#fenetre membres
+G 1/2/3/4
+photo format 400*400
+nom
+prenoms
+fils/fille de (nom du pere) G1/2 et de (nom de la mere) G1/2
+generation
+date de naissance
+autre (maraige,deces,divorce)
+contact
+nombre d'enfant
+
+
+G 0
+nom
+prenom
+fils de 	et de
+date de naissance
+nom de ses freres et soeurs
+
+pouvoir imprimer la liste des membres avec le nom, le prenom,le contact

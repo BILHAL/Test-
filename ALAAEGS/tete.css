@@ -1,0 +1,23 @@
+.barre
+{
+	font-size: 130%;
+	height: 70px;
+	font-family: algerian;
+	background-color: blue;
+	text-align: center;
+	color: black;
+}
+
+.elem_barre li
+{
+	background-color: yellow;
+	display: inline;
+	border-style: solid;
+	padding: 10px;
+	border-color: gray;
+}
+
+.elem_barre a
+{
+	color: black;
+}
